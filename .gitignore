@@ -9,3 +9,4 @@ venv
 
 # Ignore the scripts/__pycache__ directory
 scripts/__pycache__
+.DS_Store
