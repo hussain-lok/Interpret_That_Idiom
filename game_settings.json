@@ -1,0 +1,28 @@
+{
+  "points_to_win": 21,
+  "round_time_in_minutes": 4,
+  "time_to_guess_definition_in_seconds": 30,
+
+  "scoring_rules": {
+    "phrasemaker_definition_guessed_right": 1,
+    "guesser_definition_guessed_right": 1
+  },
+
+  "bonus_points_for_winning_all_categories": 1,
+  "bonus_categories": [
+    {
+      "name": "Best Phrase",
+      "points": 1
+    },
+    {
+      "name": "Funniest Interpretation",
+      "points": 1
+    }
+  ],
+
+  "lightning_round": {
+    "enabled": true,
+    "starting_points": 15,
+    "round_time_in_minutes": 1
+  }
+}
